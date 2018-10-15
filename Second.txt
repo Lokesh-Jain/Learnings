@@ -1,4 +1,5 @@
 Creating second file in GUI created branch
+Second File Contents
 S
 E
 C
@@ -9,4 +10,3 @@ D
 T
 X
 T
-
